@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Maisam Abbas
 
-🔐 **Cyber Security Enthusiast | IT & Networking Student**  
-🌱 Focused on learning defensive security, networking, and ethical hacking fundamentals  
-🎯 Goal: Become a professional Cyber Security Analyst
+ **Cyber Security Enthusiast | IT & Networking Student**  
+ Focused on learning defensive security, networking, and ethical hacking fundamentals  
+ Goal: Become a professional Cyber Security Analyst
 
 ---
 
-## 🛡️ Cyber Security Interests
+##  Cyber Security Interests
 - Network Security
 - Ethical Hacking (Beginner)
 - Vulnerability Assessment
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌐 Networking Knowledge
+##  Networking Knowledge
 - TCP/IP Fundamentals
 - OSI Model
 - IP Addressing & Subnetting (Basic)
@@ -24,7 +24,7 @@
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 - Git & GitHub
 - Linux (Basic Commands)
 - Windows Command Line
@@ -33,7 +33,7 @@
 
 ---
 
-## 📖 Currently Learning
+##  Currently Learning
 - Cyber Security Fundamentals
 - Linux for Security
 - Networking (CCNA Basics)
@@ -41,7 +41,7 @@
 
 ---
 
-## 📂 Cyber Security Projects (Coming Soon)
+##  Cyber Security Projects (Coming Soon)
 - Network Security Labs
 - Linux Security Practice
 - Basic Vulnerability Scans
@@ -49,12 +49,12 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maisamabbas0323&show_icons=true&theme=dark&cache_seconds=1800)
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=maisamabbas0323&theme=dark)
 
 ---
