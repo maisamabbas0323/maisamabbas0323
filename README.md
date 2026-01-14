@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Maisam Abbas
 
-<!--
-**maisamabbas0323/maisamabbas0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Cyber Security Enthusiast | IT & Networking Student**  
+🌱 Focused on learning defensive security, networking, and ethical hacking fundamentals  
+🎯 Goal: Become a professional Cyber Security Analyst
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Cyber Security Interests
+- Network Security
+- Ethical Hacking (Beginner)
+- Vulnerability Assessment
+- Malware & Threat Analysis (Basics)
+- Cyber Awareness & Defense
+
+---
+
+## 🌐 Networking Knowledge
+- TCP/IP Fundamentals
+- OSI Model
+- IP Addressing & Subnetting (Basic)
+- Routing & Switching Concepts
+- Cisco Packet Tracer
+
+---
+
+## 🧰 Tools & Technologies
+- Git & GitHub
+- Linux (Basic Commands)
+- Windows Command Line
+- Cisco Packet Tracer
+- Virtual Machines (Learning)
+
+---
+
+## 📖 Currently Learning
+- Cyber Security Fundamentals
+- Linux for Security
+- Networking (CCNA Basics)
+- Ethical Hacking Concepts
+
+---
+
+## 📂 Cyber Security Projects (Coming Soon)
+- Network Security Labs
+- Linux Security Practice
+- Basic Vulnerability Scans
+- Packet Analysis Practice
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maisamabbas0323&show_icons=true&theme=dark)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=maisamabbas0323&theme=dark)
+
+---
+
+## 🧠 Learning Mindset
+> “Cyber security is not a destination, it is a continuous learning process.”
+
+---
+
+## 🌐 Connect With Me
+- GitHub: [@maisamabbas0323](https://github.com/maisamabbas0323)
+
+⭐ *Securing systems. Learning every day.*
