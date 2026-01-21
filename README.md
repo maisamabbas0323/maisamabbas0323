@@ -54,8 +54,8 @@
 
 ---
 
-##  GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=maisamabbas0323&theme=dark)
+## GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=maisamabbas0323&theme=dark&border_radius=8)
 
 ---
 
