@@ -49,16 +49,6 @@
 
 ---
 
-##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maisamabbas0323&show_icons=true&theme=dark&cache_seconds=1800)
-
----
-
-## GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=maisamabbas0323&theme=dark&border_radius=8)
-
----
-
 ## 🧠 Learning Mindset
 > “Cyber security is not a destination, it is a continuous learning process.”
 
